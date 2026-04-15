@@ -19,7 +19,6 @@ The application supports role-based functionality, allowing registered users to 
 * ✅ Approve membership requests
 * ❌ Decline membership requests
 * 🗑️ Remove existing team members
-* ⚙️ Manage team membership structure
 ## 🛠️ Tech Stack
 * 🌐 HTML  
 * 🎨 CSS  
@@ -37,24 +36,18 @@ cd team_manager
 cd server
 node server.js
 ```
-#### 3. Start the frontend application
-Open a new terminal window and run:
-```bash
-npm start
-```
-#### 4. Open the application
-Once both servers are running, open your browser and visit:
-
-👉 http://localhost:3000
+#### 3. Open the application
+- Open the frontend using **VS Code Live Server**.  
+- Right-click `index.html` and select **Open with Live Server**.
 ## 📸 Screenshots 
 ### 🏠 Home
-<img width="350" height="606" alt="home" src="https://github.com/user-attachments/assets/71a69c4c-82ed-428f-8518-7f5da2406faa" />
+<img width="400" alt="home_view" src="https://github.com/user-attachments/assets/6529f40a-3347-4deb-9ef4-054172891fac" />
 
-### 🔍 Recipe Details
-<img width="350" alt="details" src="https://github.com/user-attachments/assets/e5553c5f-54fa-4705-b856-3185a411ea8f" />
+### 🔎 Browse Teams
+<img width="400" alt="browse_teams_view" src="https://github.com/user-attachments/assets/c6e2faa0-fb54-4800-abeb-92ba7467b7cc" />
 
-### 🍽️ Catalog
-<img width="350" alt="catalog" src="https://github.com/user-attachments/assets/aef89d36-e63c-48fa-9d25-fb0b5e03f333" />
+### 📄 Team Details (User View)
+<img width="400" alt="team_details_user_view" src="https://github.com/user-attachments/assets/f9e47317-f36c-4a50-ae34-022a1f14b478" />
 
-### 💬 Comments
-<img width="400" alt="comments" src="https://github.com/user-attachments/assets/d04f3154-ffe1-4ac6-bbe3-e35a1edbf56c" />
+### 👑 Team Details (Owner View)
+<img width="400" alt="team_details_owner_view" src="https://github.com/user-attachments/assets/22c768f3-cc74-46d3-9686-00e52548e131" />
