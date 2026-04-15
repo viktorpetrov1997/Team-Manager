@@ -14,7 +14,7 @@ The application supports role-based functionality, allowing registered users to 
 * 📩 Send join requests to teams
 * ❌ Cancel join requests
 * 🚪 Leave teams they are part of
-* 🔎 Browse and search teams
+* 🔎 Browse all available teams
 * 📄 View team details
 ### 🧑‍💼 Team Owners
 * ✅ Approve membership requests
