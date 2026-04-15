@@ -29,7 +29,7 @@ The application supports role-based functionality, allowing registered users to 
 ## 🚀 Getting Started
 #### 1. Clone the repository
 ```bash
-git clone <repo-url>
+git clone <repository-url>
 ```
 #### 2. Navigate to the project folder
 ```bash
