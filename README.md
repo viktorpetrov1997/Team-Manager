@@ -29,14 +29,17 @@ The application supports role-based functionality, allowing registered users to 
 #### 1. Clone the repository
 ```bash
 git clone <repo-url>
+```
+#### 2. Navigate to the project folder
+```bash
 cd team_manager
 ```
-#### 2. Start the backend server
+#### 3. Start the backend server
 ```bash
 cd server
 node server.js
 ```
-#### 3. Open the application
+#### 4. Open the application
 - Open the frontend using **VS Code Live Server**.  
 - Right-click `index.html` and select **Open with Live Server**.
 ## 📸 Screenshots 
