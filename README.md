@@ -7,14 +7,15 @@ The application supports role-based functionality, allowing registered users to 
 ### 👀 Guest Users
 * 🔎 Browse all available teams
 * 📄 View team details
-* 🚫 Cannot create or join teams
+* 🚫 Cannot create teams
 * 🚫 Cannot interact with membership actions
 ### 🔐 Registered Users
 * ➕ Create new teams
-* 🔎 Browse and search teams
 * 📩 Send join requests to teams
 * ❌ Cancel join requests
 * 🚪 Leave teams they are part of
+* 🔎 Browse and search teams
+* 📄 View team details
 ### 🧑‍💼 Team Owners
 * ✅ Approve membership requests
 * ❌ Decline membership requests
